@@ -2,8 +2,6 @@
 
 * 네이버, 다음 웹툰을 다운로드 받는 프로그램입니다.
 
-* VUEJS, ELECTRON을 이용하였습니다.
-
 * 해당 프로그램은 학습 목적으로 구현하였습니다. 만일 법적으로 문제의 소지가 있을 경우 gksrlfw@gmail.com으로 알려주세요::
 
 ## 사용법
@@ -16,7 +14,7 @@ npm install
 ```
 yarn electron:serve
 ```
-3. 아래와 같이 본인이 다운로드하길 원하는 웹툰 사이트를 선택한 후, 웹툰의 title id, 웹툰 제목, 받고싶은 화(from, to)를 입력합니다.
+3. 아래와 같이 본인이 다운로드하길 원하는 웹툰 사이트를 선택한 후, 웹툰의 title id, 웹툰 제목, 받고싶은 화를 입력합니다.
 ![image](https://user-images.githubusercontent.com/50065692/95100778-66f31080-076c-11eb-9e21-9c57e433c518.png)
 
 
