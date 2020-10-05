@@ -17,6 +17,9 @@ npm install
 yarn electron:serve
 ```
 3. 아래와 같이 본인이 다운로드하길 원하는 웹툰 사이트를 선택한 후, 웹툰의 title id, 웹툰 제목, 받고싶은 화(from, to)를 입력합니다.
+![image](https://user-images.githubusercontent.com/50065692/95100778-66f31080-076c-11eb-9e21-9c57e433c518.png)
+
+
 * 원하는 웹툰의 url을 보면 titleid 값을 확인할 수 있습니다.
 
 ![image](https://user-images.githubusercontent.com/50065692/95099644-1f1fb980-076b-11eb-8f79-a74f3cdf075f.png)
