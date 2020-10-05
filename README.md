@@ -28,7 +28,7 @@ yarn electron:serve
 * WEBTOON VIEWER를 선택하면 다운로드받은 웹툰을 확인할 수 있습니다.
 
 * 각 화에서는 자신이 원하는 태그를 작성할 수 있습니다.
-![image](https://user-images.githubusercontent.com/50065692/95100448-0f54a500-076c-11eb-9ad8-6f900858a598.png)
+![image](https://user-images.githubusercontent.com/50065692/95100992-a6b9f800-076c-11eb-95d1-c67117f2980e.png)
 
 * A, D를 이용하여 웹툰을 넘길 수 있습니다.
-![image](https://user-images.githubusercontent.com/50065692/95100142-c13fa180-076b-11eb-95c9-2c689393024d.png)
+![image](https://user-images.githubusercontent.com/50065692/95101098-c0f3d600-076c-11eb-83aa-dc6d9a901ed0.png)
